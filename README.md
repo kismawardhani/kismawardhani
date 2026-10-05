@@ -1,7 +1,8 @@
 ## RA Kismawardhani
 
 
-Research in understanding the response of ocean to the climate variability.
+Research focuses in understanding the response of ocean to the climate variability, marine heatwaves, 
+ocean dynamics, and ocean–atmosphere interactions.
 
 ### Research
 
