@@ -1,6 +1,5 @@
 ## RA Kismawardhani
 
-Hi there 👋
 
 Research in understanding the response of ocean to the climate variability.
 
